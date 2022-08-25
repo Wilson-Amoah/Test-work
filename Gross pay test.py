@@ -46,4 +46,4 @@ def computepay(correct_hrs, correct_wage):
 
 Salary = computepay(45, 10)
 print("For the compute pay function, ")
-print(f"your pay is USD {pay}")
+print(f"your pay is USD {Salary}")
